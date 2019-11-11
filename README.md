@@ -1,4 +1,4 @@
-# Rock Paper Scissors in Python!
+# Rock 💎 Paper 🍾 Scissors ✄ in Python!   
 
 Pick your wepon and play against the computer - you'll be only get a virtual sting if you lose!
 
