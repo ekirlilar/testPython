@@ -15,3 +15,5 @@ Choose your wepon wisely!
 The computer choosesfirst just follow the prompts.
 
 Built with Python 3
+
+Contributor-Dev: E.Kirlilar - (0922852)
